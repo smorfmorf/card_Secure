@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Inter;
+  src: local(Inter), url("Inter-Regular.7cdcaf36.woff2") format("woff2"), url("Inter-Regular.29a7dccd.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Inter;
+  src: local(Inter Medium), local(Inter-Medium), url("Inter-Medium.9d09c44f.woff2") format("woff2"), url("Inter-Medium.2f571a4a.woff") format("woff");
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=index2.6b442085.css.map */
