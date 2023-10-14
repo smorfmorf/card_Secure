@@ -1,5 +1,5 @@
-/fonts/
-/image/
 /node_modules/
 index.html
 package-lock.json
+/dist/
+
